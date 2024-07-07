@@ -54,14 +54,13 @@ ______________________________________________________________________________
 ## Built-With
 
 - JavaScript
-- OOP
 - Node.js
 
 ## Tests 
 
 To run tests, run 
 
-" npm test " 
+"node index.js"
 
 in the terminal.
   

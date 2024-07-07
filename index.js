@@ -17,6 +17,11 @@ const questions = [
     message: 'Enter text color (e.g., red, #ffffff):',
   },
   {
+    type: 'input',
+    name: 'textFont',
+    message: 'Enter text font (e.g., Arial, Verdana):',
+  },
+  {
     type: 'list',
     name: 'shape',
     message: 'Choose a shape for the logo:',
@@ -29,7 +34,7 @@ const questions = [
   },
 ];
 
-const generateSVG = ({ text, textColor, shape, shapeColor }) => {
+const generateSVG = ({ text, textColor, textFont, shape, shapeColor }) => {
   let shapeElement;
   switch (shape) {
     case 'Circle':
