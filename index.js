@@ -44,3 +44,23 @@ const generateSVG = ({ text, textColor, shape, shapeColor }) => {
     default:
       shapeElement = '';
   }
+
+
+return `
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  ${shapeElement}
+  <text x="50" y="55" font-size="20" text-anchor="middle" fill="${textColor}">${text}</text>
+</svg>
+`;
+};
+
+inquirer.prompt(questions).then(answers => {
+  const svgContent = generateSVG(answers);
+  fs.writeFile('logo.svg', svgContent, err => {
+    if (err) {
+      console.error('Error generating logo:', err);
+    } else {
+      console.log('Logo saved as logo.svg');
+    }
+  });
+});
