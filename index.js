@@ -64,3 +64,7 @@ inquirer.prompt(questions).then(answers => {
     }
   });
 });
+
+// Export the function for testing
+module.exports = { generateSVG }; 
+

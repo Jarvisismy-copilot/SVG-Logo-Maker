@@ -1,1 +1,18 @@
-﻿
+﻿{
+    "name": "logo-generator",
+    "version": "1.0.0",
+    "description": "A simple logo generator that uses Node.js via CLI to generate and save as an SVG file.",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "author": "Chelsea Jarvis",
+    "license": "MIT",
+    "dependencies": {
+      "inquirer": "^8.1.2"
+    },
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }
+  
