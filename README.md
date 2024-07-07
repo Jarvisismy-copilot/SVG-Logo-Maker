@@ -1,7 +1,4 @@
 # SVG-Logo-Maker
-A command line logo maker that creates a logo in SVG format.
-
-# SVG Logo Maker 
 
   ## Description  ✏️
   
@@ -14,10 +11,6 @@ A command line logo maker that creates a logo in SVG format.
   [Usage](#usage)
 
   [License](#license)
-
-  [Issues](#known-issues)
-
-  [Contributing](#how-to-contribute)
 
   [Tests](#tests) 
 
@@ -53,15 +46,6 @@ ______________________________________________________________________________
 
    ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
   This project is licensed under the MIT license.
-
-
-## Known Issues 
-
-None.
-
-## How To Contribute 
-  
------
   
 ## Tests 
 
