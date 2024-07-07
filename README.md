@@ -12,6 +12,8 @@
 
   [License](#license)
 
+  [Built-With](#Built-With)
+
   [Tests](#tests) 
 
   [Credits](#credits)
@@ -33,12 +35,14 @@ Ensure you have Node.js, npm, Inquirer, and Jest installed.
 
   After installing the necessary dependencies, type `node index.js` in the terminal and follow the prompts to create your logo. You can enter up to 3 characters, choose the text color, shape, and shape color for your logo. Once you have completed the prompts, the logo will be saved as `logo.svg`, and the console will confirm your success.
 
-  ### Deployed Link
-  #
 
 ### Screenshots
 
 No screenshots yet.
+
+### Screenrecording
+
+No screenrecording yet.
 
 ______________________________________________________________________________
 
@@ -47,6 +51,12 @@ ______________________________________________________________________________
    ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
   This project is licensed under the MIT license.
   
+## Built-With
+
+- JavaScript
+- OOP
+- Node.js
+
 ## Tests 
 
 To run tests, run 
