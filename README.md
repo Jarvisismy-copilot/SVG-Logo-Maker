@@ -72,6 +72,7 @@ https://github.com/Jarvisismy-copilot
 
  ## Questions 
   
- If you have any questions about the repo or notice any bugs you want to report, open an issue or contact me directly at If you have any questions about the repo or notice any bugs you want to report, open an issue or contact me directly at Chelseajarvis3301@icloud.com.. 
   
-  
+  If you have any questions, contact me directly at [here](mailto:Chelseajarvis3301@icloud.co)
+  or visit my [GitHub](https://github.com/Jarvisismy-copilot)
+
