@@ -49,7 +49,11 @@ ______________________________________________________________________________
   
 ## Tests 
 
-To run tests, run npm test in the terminal.
+To run tests, run 
+
+" npm test " 
+
+in the terminal.
   
 
 ## Credits 
