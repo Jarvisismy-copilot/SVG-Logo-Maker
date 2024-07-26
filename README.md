@@ -39,6 +39,12 @@ Ensure you have Node.js, npm, Inquirer, and Jest installed.
 ### Screenshots
 
 
+![My animated logo](assets/my-logo.svg)
+![My animated logo](assets/logo%202.svg)
+![My animated logo](assets/logo.svg)
+![My animated logo](assets/logo.svg%2013-39-44-678.svg)
+
+  >> edit.. Relative Path x3
 
 ### Screenrecording
 
