@@ -38,7 +38,7 @@ Ensure you have Node.js, npm, Inquirer, and Jest installed.
 
 ### Screenshots
 
-<img width="450" alt="SVG Logo Maker" src="https://github.com/ReneeRod333/svg-logo-maker/assets/160912526/e35d4000-9955-4ffb-9815-361199fdc615">
+
 
 
 ### Screenrecording
