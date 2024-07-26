@@ -40,7 +40,6 @@ Ensure you have Node.js, npm, Inquirer, and Jest installed.
 
 
 
-
 ### Screenrecording
 
 [SVG Logo Maker](https://drive.google.com/file/d/11QQXqhr4SE-BdTty-5RK66I0b4BhRoYS/view?usp=sharing)
