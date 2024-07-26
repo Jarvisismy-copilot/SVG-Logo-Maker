@@ -43,8 +43,7 @@ Ensure you have Node.js, npm, Inquirer, and Jest installed.
 ![Logo](assets/logo%202.svg)
 ![Logo](assets/logo.svg)
 ![Logo](assets/logo.svg%2013-39-44-678.svg)
-
-  >> edit.. Relative Path x3
+![Logo](assets/logo4.svg)
 
 ### Screenrecording
 
